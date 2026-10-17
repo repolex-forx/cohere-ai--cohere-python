@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cohere-ai/cohere-python/commit/0eacfe77e1710322b355928574cfec18f6791c42",
       "git:hexsha": "0eacfe77e1710322b355928574cfec18f6791c42",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/cohere-ai/cohere-python/commit/372a9e9039f7400874874799cc9257be90874e97",
