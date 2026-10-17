@@ -1,0 +1,11 @@
+{
+  "org": "cohere-ai",
+  "repo": "cohere-python",
+  "versions": [
+    {
+      "commit": "0eacfe77e1710322b355928574cfec18f6791c42",
+      "tag": "",
+      "parsed_at": "2026-10-17T07:39:10.566040+00:00"
+    }
+  ]
+}
